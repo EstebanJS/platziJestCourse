@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount, shallow } from 'enzyme';
 import ProviderMock from './../../__mocks__/ProviderMock';
-import Product from '../../Components/Product';
+import Product from '../../components/Product';
 import ProductMock from './../../__mocks__/ProductMock';
 
 describe('<Product/>', () => {
